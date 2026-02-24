@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-FF6EC7?style=for-the-badge&color=DA70FF&labelColor=FF69B4&fontSize=15" alt="Portfolio">
+    <img src="Portfolio button.png" alt="Portfolio">
   </a>
 </p>
 
