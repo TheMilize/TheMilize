@@ -1,69 +1,30 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji">
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji&screen_effect=true">
+    <img alt="Pixel GitHub Stats" 
+      src="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji">
+  </picture>
+</p>
 
 ---
-
-## ARCHITECTURE MINDSET
-
-I build systems that solve organizational problems.
-
-Currently developing **Office Space** —  
-a corporate platform for psychological state monitoring  
-and automated scheduling inside IT teams.
-
-My focus is not only writing code —  
-but structuring logic, data flows and decision layers.
-
----
-
-## TECH STACK
-
-Backend Core:
-- Node.js
-- Express
-- PostgreSQL
-
-Frontend Layer:
-- Vue.js
-- JavaScript (ES6+)
-
-Engineering Principles:
-- REST API architecture
-- Role-based access control
-- Modular structure
-- Clean data design
-
----
-
-## CURRENT DIRECTION
-
-→ System design thinking  
-→ Backend performance optimization  
-→ Database architecture refinement  
-→ Product-level development mindset  
-
----
-
-## GITHUB ANALYTICS
-
-![stats](https://github-readme-stats.vercel.app/api?username=TheMilize&show_icons=true&theme=transparent&hide_border=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMilize&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## DIGITAL PROFILE
 
 <p align="center">
-  <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-693B26?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://cv-portfolio-nu-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER%20PORTFOLIO%20→-1F1F28?style=for-the-badge&logoColor=white&labelColor=1F1F28&color=1F1F28"/>
   </a>
 </p>
 
 ---
 
-## CORE PROJECT
-
-OFFICE SPACE  
-Corporate monitoring & planning system  
-Built for internal productivity optimization.
-
-> Strong systems create strong teams.
+<p align="center">
+<b>Backend</b> — Node.js • Express • REST API • RBAC  
+<br/>
+<b>Database</b> — PostgreSQL • Relational design • Query optimization  
+<br/>
+<b>Frontend</b> — Vue.js • Component architecture • ES6+  
+<br/>
+<b>Focus</b> — Internal systems • Scalable logic • Clean structure
+</p>
