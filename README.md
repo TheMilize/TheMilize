@@ -12,9 +12,9 @@
 ---
 
 <p align="center">
-  <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank">
-    <img src="Portfolio button.png" alt="Portfolio" width="350">
-  </a>
+  <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank"><img src="Portfolio button.png" alt="Portfolio" width="350"></a>
+  <a href="https://x.com/shadow90414328?s=21" target="_blank"><img src="X.png" alt="X" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vladlen-milize-25b22339b/" target="_blank"><img src="In.png" alt="LinkedIn" width="100"></a>
 </p>
 
 ---
