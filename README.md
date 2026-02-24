@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank">
-    <img src="Portfolio button.png" alt="Portfolio">
+    <img src="Portfolio button.png" alt="Portfolio" width="350">
   </a>
 </p>
 
