@@ -10,12 +10,12 @@
 </p>
 
 ---
-<!-- //width="100" -->
+<!-- width="100" -->
 
 <p align="center">
-  <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank"><img src="1b.png" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/shadow90414328?s=21" target="_blank"><img src="2b.png" alt="X" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vladlen-milize-25b22339b/" target="_blank"><img src="3b.png" alt="LinkedIn"></a>
+  <a href="https://cv-portfolio-nu-seven.vercel.app/" target="_blank"><img src="1b.png" alt="Portfolio"width="400"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/shadow90414328?s=21" target="_blank"><img src="2b.png" alt="X" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vladlen-milize-25b22339b/" target="_blank"><img src="3b.png" alt="LinkedIn" width="100"></a>
 </p>
 
 ---
