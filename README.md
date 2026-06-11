@@ -3,7 +3,7 @@
     <source media="(prefers-color-scheme: light)" 
       srcset="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji">
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji&screen_effect=true">
+      srcset="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji&amp">
     <img alt="Pixel GitHub Stats" 
       src="https://pixel-profile.vercel.app/api/github-stats?username=TheMilize&theme=fuji">
   </picture>
